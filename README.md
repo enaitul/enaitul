@@ -101,12 +101,7 @@
   <img src="https://streak-stats.demolab.com?user=enaitul&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=enaitul&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+
 
 
 ## Contribution Snake
