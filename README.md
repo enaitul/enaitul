@@ -107,9 +107,7 @@
     alt="GitHub Activity Graph"
   />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enaitul&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" alt="GitHub activity graph" />
-</p>
+
 
 ## Contribution Snake
 
