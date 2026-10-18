@@ -40,7 +40,7 @@
 * 💻 Regular problem solver with a strong interest in Data Structures, Algorithms, and Competitive Programming
 * 🛠️ Comfortable with AI-first developer workflows using Codex, Claude Code, Antigravity, Cursor, and similar tools
 * 🏆 2× Hackathon Winner
-* 🧩 300+ DSA problems solved across LeetCode, GFG, and Coding Ninjas.
+* 🧩 500+ DSA problems solved across LeetCode, GFG, and Coding Ninjas.
 * 🚀 Currently looking for Software Development Engineering opportunities
 
 ## Tech Stack
