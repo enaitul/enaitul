@@ -101,10 +101,9 @@
   <img src="https://streak-stats.demolab.com?user=enaitul&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 </p>
 
-## Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enaitul&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bb9af7&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <i>“Make it work, make it right, make it fast.”</i><br/>
+  <sub>— Kent Beck</sub>
 </p>
 
 ## Contribution Snake
